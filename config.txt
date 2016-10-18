@@ -1,0 +1,8 @@
+#配置bugzilla用户名
+username=
+#配置bugzilla用户密码
+passwd=
+#配置禅道用户名
+cusername=111
+#配置禅道用户密码
+cpasswd=111

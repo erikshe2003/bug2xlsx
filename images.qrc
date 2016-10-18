@@ -1,0 +1,30 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+<file alias="icon01.ico">resource/icon01.ico</file>
+<file alias="icon02.ico">resource/icon02.ico</file>
+<file alias="Bugzilla_widget.png">resource/Bugzilla_widget.png</file>
+<file alias="BugzillaTab_!selected.png">resource/BugzillaTab_!selected.png</file>
+<file alias="BugzillaTab_selected.png">resource/BugzillaTab_selected.png</file>
+<file alias="ChanDao_widget.png">resource/ChanDao_widget.png</file>
+<file alias="ChanDaoTab_!selected.png">resource/ChanDaoTab_!selected.png</file>
+<file alias="ChanDaoTab_selected.png">resource/ChanDaoTab_selected.png</file>
+<file alias="JIRA_widget.png">resource/JIRA_widget.png</file>
+<file alias="JIRATab_!selected.png">resource/JIRATab_!selected.png</file>
+<file alias="JIRATab_selected.png">resource/JIRATab_selected.png</file>
+<file alias="closeWin.png">resource/closeWin.png</file>
+<file alias="closeWin_disabled.png">resource/closeWin_disabled.png</file>
+<file alias="closeWin_hover.png">resource/closeWin_hover.png</file>
+<file alias="down_arrow.png">resource/down_arrow.png</file>
+<file alias="folder.png">resource/folder.png</file>
+<file alias="help.png">resource/help.png</file>
+<file alias="minWin.png">resource/minWin.png</file>
+<file alias="minWin_disabled.png">resource/minWin_disabled.png</file>
+<file alias="minWin_hover.png">resource/minWin_hover.png</file>
+<file alias="shadow.png">resource/shadow.png</file>
+<file alias="tabWidgetTab_!selected.png">resource/tabWidgetTab_!selected.png</file>
+<file alias="tabWidgetTab_selected.png">resource/tabWidgetTab_selected.png</file>
+<file alias="settings.png">resource/settings.png</file>
+<file alias="config.txt">config.txt</file>
+</qresource>
+</RCC>
